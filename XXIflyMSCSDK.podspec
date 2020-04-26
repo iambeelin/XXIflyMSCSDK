@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/iambeelin@163.com/XXIflyMSCSDK'
+  s.homepage         = 'https://github.com/iambeelin/XXIflyMSCSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'iambeelin@163.com' => 'iambeelin@163.com' }
-  s.source           = { :git => 'https://github.com/iambeelin@163.com/XXIflyMSCSDK.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/iambeelin/XXIflyMSCSDK.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
