@@ -1,0 +1,6 @@
+framework module XXIflyMSCSDK {
+  umbrella header "XXIflyMSCSDK.h"
+
+  export *
+  module * { export * }
+}
